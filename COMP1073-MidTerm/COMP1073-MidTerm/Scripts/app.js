@@ -1,4 +1,4 @@
-//Author's Name: Gil Emerson
+//Authors Name: Gil Emerson
 //StudentID: 200186807
 //Website Name: The Travel Report
 //File description: JavaScripts Page (app.js)
